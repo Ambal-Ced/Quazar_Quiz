@@ -1,0 +1,1000 @@
+[
+  {
+    "id": 1,
+    "question": "A cloud based platform hosts the SIEM-SOAR of an organization. What is the nature of cloud delivery involved?",
+    "options": [
+      "Platform as a Service",
+      "Infra as a Service",
+      "Backend as a Service"
+    ],
+    "correctAnswer": "Software as a Service"
+  },
+  {
+    "id": 2,
+    "question": "What is the primary purpose of filtering packets and analyzing them?",
+    "options": [
+      "Shrink server logs",
+      "Boost wireless signal range",
+      "Auto-update network devices"
+    ],
+    "correctAnswer": "Detect and block malicious traffic"
+  },
+  {
+    "id": 3,
+    "question": "Makes decisions based on user attributes and contextual factors",
+    "options": [
+      "RBAC",
+      "MAC",
+      "DAC"
+    ],
+    "correctAnswer": "ABAC"
+  },
+  {
+    "id": 4,
+    "question": "Uses predefined rules set by admin, often applied in government",
+    "options": [
+      "DAC",
+      "ABAC",
+      "RBAC"
+    ],
+    "correctAnswer": "MAC"
+  },
+  {
+    "id": 5,
+    "question": "Assigns permissions based on a user's job roles and responsibilities",
+    "options": [
+      "ABAC",
+      "MAC",
+      "DAC"
+    ],
+    "correctAnswer": "RBAC"
+  },
+  {
+    "id": 6,
+    "question": "Users can change and delete existing files and folders but cannot create new ones",
+    "options": [
+      "Read",
+      "Full Control",
+      "Write"
+    ],
+    "correctAnswer": "Modify"
+  },
+  {
+    "id": 7,
+    "question": "Which practice is INAPPLICABLE for securing privileged accounts",
+    "options": [
+      "Revoke access rights when employees leave or change jobs",
+      "Implement segmentation of accont roles and responsibility",
+      "Ue multi-factor authentication for all administrative access"
+    ],
+    "correctAnswer": "Eliminate shared account with passwords that do not expire"
+  },
+  {
+    "id": 8,
+    "question": "Which characteristics of big data is concerned on its controllable ammount",
+    "options": [
+      "Variety",
+      "Velocity",
+      "Veracity"
+    ],
+    "correctAnswer": "Volume"
+  },
+  {
+    "id": 9,
+    "question": "Which is the first step in designing ZPF",
+    "options": [
+      "Establish policies between zones",
+      "Design the physical infrastructure",
+      "Identify subsets within zones and merge traffic requirements"
+    ],
+    "correctAnswer": "Determine the zones"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following characterizes a Firewall in contrast to IPS and IDS",
+    "options": [
+      "Monitors and detects suspicious activity",
+      "Detects and actively blocks threats in real time",
+      "Maintains routine messages with no significance"
+    ],
+    "correctAnswer": "Controls and filters traffic based on rules"
+  },
+  {
+    "id": 11,
+    "question": "Which technology is most likely associated with zone-based policy firewalls",
+    "options": [
+      "VPN",
+      "IDS",
+      "IPS"
+    ],
+    "correctAnswer": "ACL"
+  },
+  {
+    "id": 12,
+    "question": "If you are to evaluate cloud security issues, which has the highest weight",
+    "options": [
+      "Considering long term cost, subscription fees and service scalabilities",
+      "Evaluating deployment speed, configuration efficiency, and resource provisioning",
+      "Assessing support quality, incident response readiness, and provider reliability"
+    ],
+    "correctAnswer": "Ensuring data confidentiality through strog encryption and strict access controls"
+  },
+  {
+    "id": 13,
+    "question": "The guest OS runs directly on a hardware platform, under the control of the host system",
+    "options": [
+      "Hardware Virtualization, as it provides full control without host OS mediation",
+      "Hosted Virtualization, as it relies on host OS to manage hardware resources",
+      "Hosted Virtualization. As it runs the guest OS on top of the host system"
+    ],
+    "correctAnswer": "Hardware Virtualization, as it allows the guest OS to access hardware directly"
+  },
+  {
+    "id": 14,
+    "question": "Consistent with firm's cost-cutting, the IT department configured programs that allows you to run multiple independent operating systems on one physical system. What too is this",
+    "options": [
+      "Virtual Machine",
+      "Containerization",
+      "Hypervisor"
+    ],
+    "correctAnswer": "Virtualization"
+  },
+  {
+    "id": 15,
+    "question": "Cloud services are available over the internet and accessible from various devices like smartphones tablets, and laptops. Which feature of cloud computing is exemplified",
+    "options": [
+      "Scalability",
+      "Rapid Elasticity",
+      "On-Demand Self-Services"
+    ],
+    "correctAnswer": "Broad Network Access"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following characterizes a Veracity of big data",
+    "options": [
+      "The ability to derive valuable interpretations and insights from data",
+      "The rate at which data is generated and handled in real time",
+      "The range of formats and sources data may come from, whether structured or not"
+    ],
+    "correctAnswer": "The degree to which data can be trusted, including its accuracy and dependability"
+  },
+  {
+    "id": 17,
+    "question": "Which delivery model has the highest level of security responsibility on the part of CSP",
+    "options": [
+      "Platform as a Service",
+      "Software as a Service",
+      "Backend as a Service"
+    ],
+    "correctAnswer": "Infra as a Service"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is NOT an asymmetric encryption algorithm",
+    "options": [
+      "Rivest-Shamir-Adleman (RSA)",
+      "Diffie-Hellman",
+      "Elliptic curve cryptography (ECC)"
+    ],
+    "correctAnswer": "Advanced Encryption Standard(AES)"
+  },
+  {
+    "id": 19,
+    "question": "What is a primary concern when securing big data in organizations",
+    "options": [
+      "Allowing unrestricted access to all information for convenience",
+      "Minimizig data size to lower storage ependiture",
+      "Prioritizing faster data processing at the expense of security means"
+    ],
+    "correctAnswer": "Safeguarding massive datasets from cyberattacks and improper access"
+  },
+  {
+    "id": 20,
+    "question": "The DICT's procurement and implementation of GovCloud is wht deployment model",
+    "options": [
+      "Public Cloud",
+      "Hybrid Cloud",
+      "Community Cloud"
+    ],
+    "correctAnswer": "Private Cloud"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is TRUE about containerization",
+    "options": [
+      "Each container requirements requires its own full operating systems",
+      "Containers cannot run across multiple cloud platforms",
+      "Containers remove the need for security controls"
+    ],
+    "correctAnswer": "Containers include apps with all needed dependencies"
+  },
+  {
+    "id": 22,
+    "question": "What best described a cross-kernel data breach",
+    "options": [
+      "Unauthorized access across different OS kernel",
+      "Low-privelege code accessing high-privilege kernel data",
+      "Routine copying of kernel files for maintainance"
+    ],
+    "correctAnswer": "Data escaping one kernel space to another"
+  },
+  {
+    "id": 23,
+    "question": "In cloud computing what does the shared responsibilities model define",
+    "options": [
+      "Provider assumes all customer data responsibilities",
+      "Customers secures hardware; provider handles everything",
+      "Customer always manages all software updates"
+    ],
+    "correctAnswer": "Split security duties between provider and customer"
+  },
+  {
+    "id": 24,
+    "question": "Which delivery model has the lowest level of security responsibility on the part of the client",
+    "options": [
+      "Platform as a Service",
+      "Infra as a Service",
+      "Backend as a Service"
+    ],
+    "correctAnswer": "Software as a Service"
+  },
+  {
+    "id": 25,
+    "question": "Combining multiple datasets can unintentionally reveal sensitive information, as a product of:",
+    "options": [
+      "Correlation",
+      "Comparison",
+      "Regression"
+    ],
+    "correctAnswer": "Aggregation"
+  },
+  {
+    "id": 26,
+    "question": "Company Zee wants to automate user account provisioning and ensure new network devices are configured atomatically upon connection. Which technology/ies would support these goals?                 I. Identity and Access Management (IAM)                 II. Zero Trust Principle (ZTP)                                          III. Network Access Control (NAC)",
+    "options": [
+      "I and II",
+      "II and III",
+      "I and III"
+    ],
+    "correctAnswer": "I, II and III"
+  },
+  {
+    "id": 27,
+    "question": "what permision is configure (The image shows a general access invite where anyone in this group with link can view and this group is BSU and the invite link is set to Viewer",
+    "options": [
+      "Full Control",
+      "Read and Execute",
+      "Read"
+    ],
+    "correctAnswer": "Modify"
+  },
+  {
+    "id": 28,
+    "question": "BatstateU wants to allow employees to access documents only if their department, role and clearance level match specific requirements. Which of the following qualifies as authorization?",
+    "options": [
+      "Role-based AC, since roles alone determine document access",
+      "Discretionary AC, Because users decide who can access documents",
+      "Mandatory AC, as access depends solely on classification labels"
+    ],
+    "correctAnswer": "Attribute based AC, as it evaluates multiple users and resources attribute"
+  },
+  {
+    "id": 29,
+    "question": "Based on AAA operations, which of he following qualifies as Authorizations",
+    "options": [
+      "Verifying a users identity before access",
+      "Tracking user actions for audits and analysis",
+      "Creating policies, checks, and defining roles"
+    ],
+    "correctAnswer": "Deciding what resources an authenticated user gets"
+  },
+  {
+    "id": 30,
+    "question": "To which of the following network devices would ACL be configured",
+    "options": [
+      "Access points, to manage wireless client connections",
+      "Firewalls, to enforce security policies on incomming/outgoing traffic",
+      "Switches, to filter traffic at the data link layer"
+    ],
+    "correctAnswer": "Routers, to control traffic entering or leaving a network"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is NOT a physical access control?",
+    "options": [
+      "Locked doors preventing unauthorized entry",
+      "Laptop locks securing portable devices",
+      "Swipe cards granting entry to restricted area"
+    ],
+    "correctAnswer": "Smart cards containing embedded microchips"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following shows an INCORRECT analogy",
+    "options": [
+      "\"something they have\" is to physical device for authentication",
+      "\"something they know\" is to password or credentials",
+      "\"something they are\" is to biometric authentication"
+    ],
+    "correctAnswer": "\"something they use\" is to login information"
+  },
+  {
+    "id": 33,
+    "question": "Which principle is centered on the concept of “never trust, always verify”?",
+    "options": [
+      "IAM",
+      "ICMP",
+      "SSH"
+    ],
+    "correctAnswer": "ZTP"
+  },
+  {
+    "id": 34,
+    "question": "All of the following actions are inclusive in the process of account management except:",
+    "options": [
+      "Creating user accounts",
+      "Maintaining user accounts",
+      "Controlling accounts"
+    ],
+    "correctAnswer": "Bypassing accounts"
+  },
+  {
+    "id": 35,
+    "question": "You want to prevent employees from accessing Tiktok and IG during work hours while still allowing access to internal company resources. Which solution would be most appropriate?",
+    "options": [
+      "Configure an ACL on the router to block social media IP addresses",
+      "Implement NAT to hide internal IP addresses from the internet",
+      "Enable DHCP to assign dynamic IPs to employees’ devices"
+    ],
+    "correctAnswer": "Use a firewall only for company-sanctioned sites and block others"
+  },
+  {
+    "id": 36,
+    "question": "In the layered defense topology, which is the innermost?",
+    "options": [
+      "Perimeter Security, it monitors and controls traffic entering or leaving the network",
+      "Comms Security, it protects data during transmission across networks",
+      "Endpoint Security, it secures individual devices like laptops and workstations"
+    ],
+    "correctAnswer": "Core Security, it protects critical servers and sensitive data at the heart of the network"
+  },
+  {
+    "id": 37,
+    "question": "Which firewall type filters packets without tracking session information?",
+    "options": [
+      "Stateful firewall",
+      "Application gateway firewall",
+      "Zone-based policy firewall"
+    ],
+    "correctAnswer": "Stateless firewall"
+  },
+  {
+    "id": 38,
+    "question": "Which firewall inspects traffic at the application layer for specific services?",
+    "options": [
+      "Packet-filtering firewall",
+      "Stateless firewall",
+      "Connection-context firewall"
+    ],
+    "correctAnswer": "Application gateway firewall"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is NOT part of core security?",
+    "options": [
+      "Database servers",
+      "Application servers",
+      "Backup storage"
+    ],
+    "correctAnswer": "Network firewalls"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is the MOST substantial benefit of a ZPF?",
+    "options": [
+      "Does not depend on ACLs, using centralized policies for traffic control",
+      "Virtual and physical interfaces can be organized into security zones",
+      "Designated policies control unidirectional traffic flows between defined zones"
+    ],
+    "correctAnswer": "The router’s default posture blocks traffic unless explicitly allowed"
+  },
+  {
+    "id": 41,
+    "question": "Stateless firewalls operate based on Layers 3 and 4 information which does NOT include:",
+    "options": [
+      "IP address",
+      "Ports",
+      "Protocols"
+    ],
+    "correctAnswer": "Subnet mask"
+  },
+  {
+    "id": 42,
+    "question": "An enterprise wants a firewall that can detect risky behavior in ongoing sessions, block mid-connection attacks, and make decisions using both packet rules and session history. Which is the best choice?",
+    "options": [
+      "A stateless firewall that processes each packet independently without tracking sessions",
+      "An app gateway firewall designed primarily for filtering specific application services",
+      "A packet-filtering firewall that relies only on basic rule matching for traffic control"
+    ],
+    "correctAnswer": "A stateful firewall that maintains connection tables and evaluates session context"
+  },
+  {
+    "id": 43,
+    "question": "Geash notices that its firewall is allowing traffic simply because it matches the packet-level rule, even though traffic does not belong to an established connection. Which firewall type is used?",
+    "options": [
+      "A stateful firewall that evaluates both packet rules and session history",
+      "An application gateway firewall that inspects data at the application layer",
+      "A zone-based policy firewall that applies rules between grouped security zones"
+    ],
+    "correctAnswer": "A stateless firewall that filters packets solely based on predefined rule sets"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is NOT a scope of Intrusion Detection Systems (IDS)?",
+    "options": [
+      "Traffic monitoring",
+      "Access detection",
+      "Alert generation"
+    ],
+    "correctAnswer": "Traffic blocking"
+  },
+  {
+    "id": 45,
+    "question": "UnionBank wants to prevent unauthorized access from the internet while allowing employees to use web services and email. Which device should they deploy to enforce these rules?",
+    "options": [
+      "Switch, to segment the network into VLANs",
+      "Router, to direct traffic between networks only",
+      "Access point, to control wireless connections"
+    ],
+    "correctAnswer": "Firewall, to filter traffic based on policies"
+  },
+  {
+    "id": 46,
+    "question": "A BPO firm has remote employees who need secure access to internal resources over the internet. Which solution best provides confidentiality and integrity of the data?",
+    "options": [
+      "Site-to-site VPN, to connect remote offices securely",
+      "Network firewall, to block unauthorized access to internal servers",
+      "Application firewall, to control traffic for specific applications"
+    ],
+    "correctAnswer": "Remote-access VPN, to allow employees remote connections"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is the ODD ONE OUT?",
+    "options": [
+      "VPN – encrypts data for secure transmission",
+      "IDS – detects suspicious activity",
+      "IPS – prevents suspicious activity"
+    ],
+    "correctAnswer": "Firewall – controls network traffic"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following has an INCORRECT conceptual analogy for types of firewalls?",
+    "options": [
+      "Stateless firewall: like a traffic cop checking cars individually",
+      "Stateful firewall: like a security guard tracking all visitors’ entries and exits",
+      "Proxy firewall: like a mailbox that only forwards certain letters"
+    ],
+    "correctAnswer": "Application gateway firewall: like a door that only allows specific applications"
+  },
+  {
+    "id": 49,
+    "question": "Router(config)# zone security zone-name   R1(config)# zone security PRIVATE R1(config-sec-zone)# exit R1(config)# zone security PUBLIC R1(config-sec-zone)# exit R1(config)#                              What is the main purpose of creating security zones like PRIVATE and PUBLIC?",
+    "options": [
+      "Assign IPs",
+      "Increase speed",
+      "Backup router"
+    ],
+    "correctAnswer": "Group interfaces"
+  },
+  {
+    "id": 50,
+    "question": "Router(config)# zone security zone-name   R1(config)# zone security PRIVATE R1(config-sec-zone)# exit R1(config)# zone security PUBLIC R1(config-sec-zone)# exit R1(config)#                              Why create separate zones such as PRIVATE and PUBLIC?",
+    "options": [
+      "To allow all traffic",
+      "To name devices",
+      "To monitor hardware"
+    ],
+    "correctAnswer": "To control traffic"
+  },
+  {
+    "id": 51,
+    "question": "Google App Engine, Heroku, Microsoft Azure App",
+    "options": [
+      "SaaS",
+      "IaaS",
+      "BaaS"
+    ],
+    "correctAnswer": "PaaS"
+  },
+  {
+    "id": 52,
+    "question": "AWS EC2, Microsoft Azure VMs, Google Compute Engine",
+    "options": [
+      "SaaS",
+      "PaaS",
+      "BaaS"
+    ],
+    "correctAnswer": "IaaS"
+  },
+  {
+    "id": 53,
+    "question": "Gmail, Google Drive, Microsoft 365, Salesforce",
+    "options": [
+      "PaaS",
+      "IaaS",
+      "BaaS"
+    ],
+    "correctAnswer": "SaaS"
+  },
+  {
+    "id": 54,
+    "question": "Firebase, AWS Amplify, Kinvey",
+    "options": [
+      "SaaS",
+      "PaaS",
+      "IaaS"
+    ],
+    "correctAnswer": "BaaS"
+  },
+  {
+    "id": 55,
+    "question": "Using analytics to enhance business decisions and user engagement",
+    "options": [
+      "Velocity",
+      "Variety",
+      "Volume"
+    ],
+    "correctAnswer": "Value"
+  },
+  {
+    "id": 56,
+    "question": "Data that comes in numerous forms from multiple sources",
+    "options": [
+      "Velocity",
+      "Volume",
+      "Value"
+    ],
+    "correctAnswer": "Variety"
+  },
+  {
+    "id": 57,
+    "question": "Fast-moving data streams requiring real-time processing",
+    "options": [
+      "Variety",
+      "Volume",
+      "Value"
+    ],
+    "correctAnswer": "Velocity"
+  },
+  {
+    "id": 58,
+    "question": "Extremely large datasets generated by devices or systems",
+    "options": [
+      "Velocity",
+      "Variety",
+      "Value"
+    ],
+    "correctAnswer": "Volume"
+  },
+  {
+    "id": 59,
+    "question": "Tracking system interactions for auditing and monitoring",
+    "options": [
+      "Encryption",
+      "Authentication",
+      "Authorization"
+    ],
+    "correctAnswer": "Accounting"
+  },
+  {
+    "id": 60,
+    "question": "Determining what actions different user roles can perform",
+    "options": [
+      "Encryption",
+      "Authentication",
+      "Accounting"
+    ],
+    "correctAnswer": "Authorization"
+  },
+  {
+    "id": 61,
+    "question": "Verifying a user’s identity through credentials or biometrics",
+    "options": [
+      "Encryption",
+      "Authorization",
+      "Accounting"
+    ],
+    "correctAnswer": "Authentication"
+  },
+  {
+    "id": 62,
+    "question": "Converting information into unreadable form to protect confidentiality",
+    "options": [
+      "Authentication",
+      "Authorization",
+      "Accounting"
+    ],
+    "correctAnswer": "Encryption"
+  },
+  {
+    "id": 63,
+    "question": "Security devices that guard the network’s outer boundary",
+    "options": [
+      "Core",
+      "Comms",
+      "Endpoint"
+    ],
+    "correctAnswer": "Perimeter"
+  },
+  {
+    "id": 64,
+    "question": "Technologies enabling secure communication between networked systems",
+    "options": [
+      "Core",
+      "Perimeter",
+      "Endpoint"
+    ],
+    "correctAnswer": "Comms"
+  },
+  {
+    "id": 65,
+    "question": "Systems hosting mission-critical services and sensitive data",
+    "options": [
+      "Comms",
+      "Perimeter",
+      "Endpoint"
+    ],
+    "correctAnswer": "Core"
+  },
+  {
+    "id": 66,
+    "question": "Protection tools installed on user devices and workstations",
+    "options": [
+      "Core",
+      "Comms",
+      "Perimeter"
+    ],
+    "correctAnswer": "Endpoint"
+  },
+  {
+    "id": 67,
+    "question": "Permitting or denying traffic from subnet regardless of protocol",
+    "options": [
+      "Named",
+      "Numbered",
+      "Extended"
+    ],
+    "correctAnswer": "Standard"
+  },
+  {
+    "id": 68,
+    "question": "ip access-list extended BLOCK_WEBSITES",
+    "options": [
+      "Named",
+      "Numbered",
+      "Standard"
+    ],
+    "correctAnswer": "Extended"
+  },
+  {
+    "id": 69,
+    "question": "Blocking HTTP traffic from a specific subnet",
+    "options": [
+      "Named",
+      "Numbered",
+      "Standard"
+    ],
+    "correctAnswer": "Extended"
+  },
+  {
+    "id": 70,
+    "question": "access-list 10 permit 192.168.1.0 0.0.0.255",
+    "options": [
+      "Named",
+      "Extended",
+      "Standard"
+    ],
+    "correctAnswer": "Numbered"
+  },
+  {
+    "id": 71,
+    "question": "When dealing with network logs and alert, data pertaining to network activities, traffic and alike are collected, aggregated, correlated and analyzed. What type of data are being relate",
+    "options": [
+      "Alert Data",
+      "Packet Captures",
+      "Big Data"
+    ],
+    "correctAnswer": "Security Data"
+  },
+  {
+    "id": 72,
+    "question": "Information generated by security systems indicating suspicious activities requiring attention or potential incident responses actions.",
+    "options": [
+      "Session Data",
+      "Transaction Data",
+      "Packet Data"
+    ],
+    "correctAnswer": "Alert Data"
+  },
+  {
+    "id": 73,
+    "question": "Records describing communication sessions between endpoints, including duration, participants, protocols, and observed behavioral characteristics details.",
+    "options": [
+      "Packet Data",
+      "Statistical Data",
+      "Alert Data"
+    ],
+    "correctAnswer": "Session Data"
+  },
+  {
+    "id": 74,
+    "question": "Logs capturing discrete user or system operations, documenting actions, timestamps, resource access, and contextual information.",
+    "options": [
+      "Session Data",
+      "Packet Captures",
+      "Alert Data"
+    ],
+    "correctAnswer": "Transaction Data"
+  },
+  {
+    "id": 75,
+    "question": "Raw network traffic records containing individual packets with headers, payloads, timing information, and communication context.",
+    "options": [
+      "Session Data",
+      "Statistical Data",
+      "Packet Data"
+    ],
+    "correctAnswer": "Packet Captures"
+  },
+  {
+    "id": 76,
+    "question": "Aggregated metrics summarizing system or network behavior, identifying trends, anomalies, performance patterns, and security-relevant insights.",
+    "options": [
+      "Session Data",
+      "Packet Captures",
+      "Packet Data"
+    ],
+    "correctAnswer": "Statistical Data"
+  },
+  {
+    "id": 77,
+    "question": "HIDS run on?",
+    "options": [
+      "Host server",
+      "VM Server",
+      "Network Server"
+    ],
+    "correctAnswer": "Individual host"
+  },
+  {
+    "id": 78,
+    "question": "a popular open-source HIDS, includes a robust log collection and analysis functionality.",
+    "options": [
+      "Kubernetes",
+      "Docker",
+      "Oracle"
+    ],
+    "correctAnswer": "OSSEC"
+  },
+  {
+    "id": 79,
+    "question": "Offers a HIDS for Linux that includes similar functionality. All can scale to larger enterprises.",
+    "options": [
+      "OSSEC",
+      "Docker",
+      "Oracle"
+    ],
+    "correctAnswer": "Tripwire"
+  },
+  {
+    "id": 80,
+    "question": "Microsoft Windows host logs are visible locally through?",
+    "options": [
+      "Network Log",
+      "Packet Logs",
+      "System Logs"
+    ],
+    "correctAnswer": "Event Viewer"
+  },
+  {
+    "id": 81,
+    "question": "These contains events logged by various application",
+    "options": [
+      "System Logs",
+      "Security logs",
+      "Network Logs"
+    ],
+    "correctAnswer": "Application logs"
+  },
+  {
+    "id": 82,
+    "question": "These record information about the installation of software, including windows updates",
+    "options": [
+      "System Logs",
+      "Application Logs",
+      "Security Logs"
+    ],
+    "correctAnswer": "Setup Log"
+  },
+  {
+    "id": 83,
+    "question": "These record events related to security, such as logon attemps and operation related to file or object management and access",
+    "options": [
+      "Security Data",
+      "System logs",
+      "Application logs"
+    ],
+    "correctAnswer": "Security Logs"
+  },
+  {
+    "id": 84,
+    "question": "Attacker who have gained access to a system, and some types of malware, execute commands from the command-line interface (CLI) rather than a GUI. Logging command line execution will provide visibility into this type of incident.",
+    "options": [
+      "Security Data",
+      "Security logs",
+      "Network Logs"
+    ],
+    "correctAnswer": "Command-line logs"
+  },
+  {
+    "id": 85,
+    "question": "Is an event that indicates a significant problem such as loss of data or loss of functionality. For example, if a service fails to load during startup",
+    "options": [
+      "Warning"
+    ],
+    "correctAnswer": "Error"
+  },
+  {
+    "id": 86,
+    "question": "Is an event that is not necessarily significant but may indicate a possible future problem. For example, when disk space is low,",
+    "options": [
+      "Error",
+      "Failure Audit",
+      "Information"
+    ],
+    "correctAnswer": "Warning"
+  },
+  {
+    "id": 87,
+    "question": "Describes the successful operation of an application, driver, or service. For example, when a network driver loads successfully, it may be appropriate to log an",
+    "options": [
+      "Success Audit",
+      "Warning",
+      "Error"
+    ],
+    "correctAnswer": "Information"
+  },
+  {
+    "id": 88,
+    "question": "an application can recover from an event without loss of functionality or data, it can generally classify the event as a _?",
+    "options": [
+      "Error",
+      "Failure Audit",
+      "Information"
+    ],
+    "correctAnswer": "Warning"
+  },
+  {
+    "id": 89,
+    "question": "Is an event that records an audited security access attempt that is successful. For example, a user’s successful attempt to log on to the system is logged as a?",
+    "options": [
+      "Warning",
+      "Data log",
+      "Information"
+    ],
+    "correctAnswer": "Success Audit"
+  },
+  {
+    "id": 90,
+    "question": "Is an event that records an audited security access attempt that fails. For example, if a user tries to access a network drive and fails, the attempt is logged as a?",
+    "options": [
+      "Error",
+      "Information",
+      "Warning"
+    ],
+    "correctAnswer": "Failure Audit"
+  },
+  {
+    "id": 91,
+    "question": "True Positive",
+    "options": [
+      "The alert does not indicate an actual security incident",
+      "No security incident has occurred. The Activity is benign",
+      "An undetected incident has occurred"
+    ],
+    "correctAnswer": "The alert has been verified to be an actual security incident."
+  },
+  {
+    "id": 92,
+    "question": "False Positive",
+    "options": [
+      "The alert has been verified to be an actual security incident.",
+      "No security incident has occurred. The Activity is benign",
+      "An undetected incident has occurred"
+    ],
+    "correctAnswer": "The alert does not indicate an actual security incident"
+  },
+  {
+    "id": 93,
+    "question": "True Negative",
+    "options": [
+      "The alert does not indicate an actual security incident",
+      "The alert has been verified to be an actual security incident.",
+      "An undetected incident has occurred"
+    ],
+    "correctAnswer": "No security incident has occurred. The Activity is benign"
+  },
+  {
+    "id": 94,
+    "question": "False Negative",
+    "options": [
+      "No security incident has occurred. The Activity is benign",
+      "The alert does not indicate an actual security incident",
+      "The alert has been verified to be an actual security incident."
+    ],
+    "correctAnswer": "An undetected incident has occurred"
+  },
+  {
+    "id": 95,
+    "question": "Results in a false positive activity and refered to as beign trigger",
+    "options": [
+      "True Negative",
+      "False Positive",
+      "False negative"
+    ],
+    "correctAnswer": "Benign Activity"
+  },
+  {
+    "id": 96,
+    "question": "Desired type of alert. They mean that the rules that generate alerts have worked correctly.",
+    "options": [
+      "False Positive",
+      "True Negative",
+      "False Negative"
+    ],
+    "correctAnswer": "True Positive"
+  },
+  {
+    "id": 97,
+    "question": "not desirable. Although they do not indicate that an undetected exploit has occurred, they are costly because cybersecurity analysts must investigate false alarms;",
+    "options": [
+      "True Positive",
+      "True Negative",
+      "False Negative"
+    ],
+    "correctAnswer": "False Positive"
+  },
+  {
+    "id": 98,
+    "question": "desirable type of alert. They indicate that benign normal traffic is correctly ignored, and erroneous alerts are not being issued.",
+    "options": [
+      "False Positive",
+      "True Positive",
+      "False Negative"
+    ],
+    "correctAnswer": "True Negative"
+  },
+  {
+    "id": 99,
+    "question": "Are dangerous. They indicate that exploits are not being detected by the security systems that are in place.",
+    "options": [
+      "True Negative",
+      "False Positive",
+      "True Positive"
+    ],
+    "correctAnswer": "False Negative"
+  },
+  {
+    "id": 100,
+    "question": "When true positives are suspected, a cybersecurity analyst is",
+    "options": [
+      "Expected to downgrade the alert severity automatically without further verification.",
+      "Stops Operation and Required to immediately ignore the alert if it does not match all predefined attack signatures.",
+      "Allowed to delete all related system logs to prevent unnecessary storage usage."
+    ],
+    "correctAnswer": "Sometimes required to escalate the alert to a higher level for investigation."
+  }
+]

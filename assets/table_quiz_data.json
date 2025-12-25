@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "quizType": "fillInTheBlankTable",
+    "tableData": {
+      "columnHeaders": [
+        "Definition/Nature",
+        "Focuses",
+        "Keyword"
+      ],
+      "rows": [
+        {
+          "rowHeader": "Volume",
+          "cells": [
+            {
+              "type": "data",
+              "value": "Refers to the massive ammount of data generated from sources"
+            },
+            {
+              "type": "data",
+              "value": "Amount of Data"
+            },
+            {
+              "type": "data",
+              "value": "Amount"
+            }
+          ]
+        },
+        {
+          "rowHeader": "Velocity",
+          "cells": [
+            {
+              "type": "data",
+              "value": "The speed at which data is created, collected and processed"
+            },
+            {
+              "type": "data",
+              "value": "Speed in Data"
+            },
+            {
+              "type": "data",
+              "value": "Speed"
+            }
+          ]
+        },
+        {
+          "rowHeader": "Variety",
+          "cells": [
+            {
+              "type": "data",
+              "value": "The diversity of data types, including structured, semi-structured, and unstructured"
+            },
+            {
+              "type": "data",
+              "value": "Diversity of data"
+            },
+            {
+              "type": "data",
+              "value": "Diversity"
+            }
+          ]
+        },
+        {
+          "rowHeader": "Veracity",
+          "cells": [
+            {
+              "type": "data",
+              "value": "The trustworthinesss, accuracy, and quality of data, which affects reliability of insights"
+            },
+            {
+              "type": "data",
+              "value": "Accuracy of Data"
+            },
+            {
+              "type": "data",
+              "value": "Accuracy"
+            }
+          ]
+        },
+        {
+          "rowHeader": "Value",
+          "cells": [
+            {
+              "type": "data",
+              "value": "The potential to extract meaningful insights and actionable intelligence from data"
+            },
+            {
+              "type": "data",
+              "value": "Insights from Data"
+            },
+            {
+              "type": "data",
+              "value": "Insights / intelligence"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": {
+      "0_0": "Refers to the massive ammount of data generated from sources",
+      "0_1": "Amount of Data",
+      "0_2": "Amount",
+      "1_0": "The speed at which data is created, collected and processed",
+      "1_1": "Speed in Data",
+      "1_2": "Speed",
+      "2_0": "The diversity of data types, including structured, semi-structured, and unstructured",
+      "2_1": "Diversity of data",
+      "2_2": "Diversity",
+      "3_0": "The trustworthinesss, accuracy, and quality of data, which affects reliability of insights",
+      "3_1": "Accuracy of Data",
+      "3_2": "Accuracy",
+      "4_0": "The potential to extract meaningful insights and actionable intelligence from data",
+      "4_1": "Insights from Data",
+      "4_2": "Insights / intelligence"
+    },
+    "wrongOptions": []
+  }
+]
